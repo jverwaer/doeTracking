@@ -6,7 +6,7 @@ A detection and tracking pipeline for rabbits using computer vision.
 
 The video below shows the result of our detection and tracking pipeline:
 
-<video src="assets/demo.mp4" controls width="100%">
+<video src="assets/demo2.mp4" controls width="100%">
   Your browser does not support the video tag.
 </video>
 
